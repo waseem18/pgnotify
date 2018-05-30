@@ -1,3 +1,7 @@
 # Pynotify
 
-A Python package to listen to Postgres events and receive the payload as JSON.
+Python package to set triggers and listen to events from a Postgres database and receive the payload as JSON.
+
+### Installation
+
+` pip install pgnotify `
